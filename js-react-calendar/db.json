@@ -1,0 +1,22 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "title": "DEADLINE test",
+      "description": "Project deadline",
+      "date": 1703078522
+    },
+    {
+      "id": 2,
+      "title": "Test in OCT",
+      "description": "Test",
+      "date": 1696944122
+    },
+    {
+      "id": 3,
+      "title": "Test in FEB",
+      "description": "Test",
+      "date": 1707571322
+    }
+  ]
+}
